@@ -1,0 +1,2 @@
+(this["webpackJsonpcrown-shopping"]=this["webpackJsonpcrown-shopping"]||[]).push([[0],{11:function(n,e,t){n.exports=t(12)},12:function(n,e,t){"use strict";t.r(e);var o=t(0),p=t.n(o),r=t(8),a=t.n(r),c=t(10);a.a.render(p.a.createElement(c.a,null,p.a.createElement("app",null)),document.getElementById("root"))}},[[11,1,2]]]);
+//# sourceMappingURL=main.b0b0c0c6.chunk.js.map
